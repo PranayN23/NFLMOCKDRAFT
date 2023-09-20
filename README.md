@@ -1,4 +1,4 @@
-## NFLMOCKDRAFT
+## NFL MOCK DRAFT Simulator
 An NFL MOCK DRAFT SIMULATOR
 Welcome to the NFL Mock Draft Simulator for the 2022 season! This Java-based project is designed to provide a user-friendly experience, featuring efficient data management, complex draft logic, a real NFL statistics-driven trading system, and robust error handling using regular expressions.
 

@@ -1,23 +1,20 @@
 # NFLMOCKDRAFT
 An NFL MOCK DRAFT SIMULATOR
-Welcome to the NFL Mock Draft Simulator for the 2022 season! This Java-based project leverages Object-Oriented Programming principles and a variety of Data Structures, including HashMaps, Tree Maps, and ArrayLists. The simulator is designed to provide a user-friendly experience, featuring efficient data management, complex draft logic, a real NFL statistics-driven trading system, and robust error handling using regular expressions.
+Welcome to the NFL Mock Draft Simulator for the 2022 season! This Java-based project is designed to provide a user-friendly experience, featuring efficient data management, complex draft logic, a real NFL statistics-driven trading system, and robust error handling using regular expressions.
 
-Key Features
-Object-Oriented Programming: The simulator is built using Object-Oriented Programming (OOP) principles, ensuring modularity, reusability, and maintainability of the codebase.
+## Key Features
 
-Data Structures: We utilize a range of Data Structures, such as HashMaps, Tree Maps, and ArrayLists, to efficiently manage and manipulate data throughout the simulation.
+**Data Structures:** We utilize a range of Data Structures, such as HashMaps, Tree Maps, and ArrayLists, to efficiently manage and manipulate data throughout the simulation.
 
-Data Collection and Manipulation: The project excels in collecting and processing data via File Processing, enabling seamless integration of real NFL statistics and player data.
+**Data Collection and Manipulation:** The project excels in collecting and processing data via File Processing, enabling seamless integration of real NFL statistics and player data.
 
-User-Friendly Interface: The simulator features an intuitive user interface that makes it easy for users to draft their favorite NFL players and build their dream teams.
+**Complex Draft Logic:** Our simulator incorporates sophisticated draft logic, taking into account various factors like player rankings, team needs, and trade possibilities to simulate a realistic NFL draft experience.
 
-Complex Draft Logic: Our simulator incorporates sophisticated draft logic, taking into account various factors like player rankings, team needs, and trade possibilities to simulate a realistic NFL draft experience.
+**Real NFL Statistics-Driven Trading System:** Users can engage in trades based on real NFL statistics, allowing for dynamic team-building strategies and realistic trade scenarios.
 
-Real NFL Statistics-Driven Trading System: Users can engage in trades based on real NFL statistics, allowing for dynamic team-building strategies and realistic trade scenarios.
+**Robust Error Handling:** We've implemented a robust error handling system using regular expressions to ensure that the simulator gracefully handles unexpected input and errors, providing a smooth user experience.
 
-Robust Error Handling: We've implemented a robust error handling system using regular expressions to ensure that the simulator gracefully handles unexpected input and errors, providing a smooth user experience.
-
-Getting Started
+## Getting Started
 To run the NFL Mock Draft Simulator, follow these steps:
 
 Clone this GitHub repository to your local machine.
@@ -29,13 +26,13 @@ Compile and run the Java program using your preferred IDE or command line tools.
 
 Follow the on-screen instructions to start drafting players, making trades, and building your ultimate NFL team!
 
-Contributors
+## Contributors
 Pranay Nandkeolyar - Lead Developer
 
-License
+## License
 This project is licensed under the MIT License, which means you are free to use, modify, and distribute the code for personal or commercial purposes. However, please attribute the original authors and provide a link to this repository if you decide to use or share this simulator.
 
-Feedback and Contributions
+## Feedback and Contributions
 We welcome feedback and contributions from the community. If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. Together, we can make this NFL Mock Draft Simulator even better!
 
 Happy drafting, and may your team be filled with future NFL stars! 🏈✨

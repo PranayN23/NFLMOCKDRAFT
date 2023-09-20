@@ -20,7 +20,7 @@ To run the NFL Mock Draft Simulator, follow these steps:
 Clone this GitHub repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/NFL-Mock-Draft-Simulator.git
+git clone https://github.com/PranayN23/NFLMOCKDRAFT.git
 ```
 Compile and run the Java program using your preferred IDE or command line tools.
 
